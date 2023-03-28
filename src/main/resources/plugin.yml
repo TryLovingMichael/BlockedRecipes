@@ -1,0 +1,7 @@
+name: BlockedRecipes
+version: '${project.version}'
+main: dev.michaelh.blockedrecipes.BlockedRecipes
+api-version: 1.19
+authors: [ MichaelH ]
+description: Block certain recipes in a config and allow players to learn them.
+website: https://michael-h.dev
